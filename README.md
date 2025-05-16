@@ -1,4 +1,4 @@
-# YenPocket Mini
+# ¥enPocket Mini
 
 🎮 ¥enPocket Mini — A DIY Pocket Console You Build, Hack, and Learn With
 Built from scratch using an Arduino Uno, a breadboard, an OLED display... and a **recycled medicine box**. This is true **Brazilian maker spirit** in its rawest form.
