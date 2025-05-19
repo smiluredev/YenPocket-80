@@ -1,7 +1,7 @@
 # ¥enPocket 80
 
 🎮 ¥enPocket 80 — A DIY Pocket Console You Build, Hack, and Learn With
-Built from scratch using an Arduino Uno, a breadboard, an OLED display... and a **recycled medicine box**. This is true **Brazilian maker spirit** in its rawest form.
+Built from scratch using an Arduino Uno, a breadboard, an OLED display... and a **Recycled VHS Tape**. This is true **Brazilian maker spirit** in its rawest form.
 
 🧠 What is the ¥enPocket 80?
 
